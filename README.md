@@ -1,2 +1,2 @@
 # odin-recipes
-TOP 
+This is a practice project for utilizing git/github and HTML
