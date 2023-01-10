@@ -1,3 +1,5 @@
 .background-img {
-  background-image: url("lasagna.jpeg");
+  background-image: url("../lasagna.jpeg");
+  width: auto;
+  height: auto;
 }
