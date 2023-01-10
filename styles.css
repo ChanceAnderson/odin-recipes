@@ -1,5 +1,5 @@
-.background-img {
-  background-image: url("../lasagna.jpeg");
-  width: auto;
-  height: auto;
+.background-one {
+  width:100% ;
+  height: 100px ; 
+  color: goldenrod; 
 }
